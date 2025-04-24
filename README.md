@@ -18,4 +18,4 @@ Este script foi criado para gerenciar automaticamente os acessos a um sistema a 
 - Permissões adequadas para executar scripts no Google Apps.
 
 ## Licença:
-Este projeto está sob a licença MIT - consulte o [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT - consulte o [LICENSE (https://mit-license.org/)] para mais detalhes.
